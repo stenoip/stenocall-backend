@@ -1,0 +1,9 @@
+{
+  "name": "stenocall-backend",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@vercel/kv": "latest",
+    "nanoid": "4.x"
+  }
+}
